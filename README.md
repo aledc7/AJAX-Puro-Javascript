@@ -57,7 +57,7 @@
             inicializar_XMLHttpRequest();
 
             //aca hace el llamado a la supuesta API, que en este caso es un archivo.txt
-            realizarPeticion('http://chatbot.baitsoftware.com/api/DialogMessages', 'GET', funcActuadora);
+            realizarPeticion('http://servicios.sartsoftware.com/api/DialogMessages', 'GET', funcActuadora);
         }
 
 
