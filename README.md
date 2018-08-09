@@ -93,12 +93,11 @@
 ```
 
 
-###### Espero les haya sido de ayude
+###### Espero les haya sido de ayud@
 
-- [x] código simple y claro
-- [x] Útil
-- [x] bien explicado
+- [x] código simple y claro.
+- [x] útil.
+- [x] bien explicado.
 - [x] SAP-TFI-UAI
 - [x] CAETI-ROSARIO
-- [x] for free :)
     
