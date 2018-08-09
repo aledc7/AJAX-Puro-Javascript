@@ -93,8 +93,12 @@
 ```
 
 
-###### Espero les haya sido de
--[x] ayuda
--[x] útil
--[x] AleDC
+###### Espero les haya sido de ayude
+
+- [x] código simple y claro
+- [x] Útil
+- [x] bien explicado
+- [x] SAP-TFI-UAI
+- [x] CAETI-ROSARIO
+- [x] for free :)
     
