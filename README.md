@@ -5,7 +5,6 @@
 ###### A continuación les comparto un ejemplo probado y funcionando de AJAX con Javascript PURO.
 
 - [x] AleDC
-- [x] SAP-TFI UAI
 
 
 
