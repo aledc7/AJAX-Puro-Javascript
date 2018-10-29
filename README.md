@@ -94,10 +94,5 @@
 
 ###### Espero les haya sido de ayud@
 
-- [x] código simple y claro.
-- [x] útil.
-- [x] bien explicado.
 - [x] tested code aprobed!
-- [x] SAP-TFI-UAI
-- [x] CAETI-ROSARIO
     
