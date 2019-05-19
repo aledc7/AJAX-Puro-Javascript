@@ -1,4 +1,7 @@
 # AJAX-Puro-Javascript
+
+[<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
+
 ###### código de ejemplo de uso de AJAX utilizando solo Javascript, sin hacer uso de jquery.
 
 
